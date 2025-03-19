@@ -31,7 +31,6 @@ public class Customer {
                 total = total + item.getPrice();
 //                System.out.println("Item " + item.getDescription() + ", " + item.getPrice() + ", " + item.getSize());
 //                total = total + (total * tax);
-
 //                if (total > 15) {
 //                    break;
 //                }
